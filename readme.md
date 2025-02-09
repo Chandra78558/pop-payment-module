@@ -54,9 +54,6 @@ function App() {
   );
 }
 
-Copy
-
-Apply
 
 Development
 # Install dependencies
@@ -74,9 +71,6 @@ npm run build
 # Run Storybook
 npm run storybook
 
-Copy
-
-Execute
 
 Project Structure
 pop-payment-module/
@@ -96,9 +90,7 @@ pop-payment-module/
 │   └── payment-processor.test.tsx
 └── package.json
 
-Copy
 
-Apply
 
 Testing
 Unit tests using Jest
