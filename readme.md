@@ -28,9 +28,7 @@ Loading states and error handling
 Installation
 npm install pop-payment-module
 
-Copy
 
-Execute
 
 Usage
 Basic Implementation
@@ -40,9 +38,7 @@ function App() {
   return <PaymentForm />;
 }
 
-Copy
 
-Apply
 
 With Custom Configuration
 import { PaymentForm } from 'pop-payment-module';
@@ -116,9 +112,7 @@ const CCAVENUE_CONFIG = {
     WORKING_KEY: process.env.WORKING_KEY
 };
 
-Copy
 
-Apply
 
 Deployment
 Build optimized for production
@@ -140,19 +134,5 @@ Create Pull Request
 License
 MIT License
 
-Support
-Documentation: [Link to docs]
-Issues: GitHub Issues
-Email: support@example.com
-Roadmap
-Apple Pay integration
-Google Pay support
-Additional currency support
-Enhanced analytics
-Advanced fraud detection
-Acknowledgments
-CCAvenue Payment Gateway
-React Community
-Testing Libraries
-Storybook Team
+
 This module is part of the POP Development Assistant ecosystem.
